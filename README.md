@@ -1,6 +1,6 @@
 # Device Performance Monitoring
 
-## Introduction:
+### Introduction:
 Attending Hack With Google event, sponsored by BeMyApp, Google, and Onix, the hackathon aims to expand people's knowledge about AppSheet and other generative AI features in Google Workspace, AppSheet, and Google Cloud products.
 
 There are two main challenges: the Independent Developer track and the Emerging Mid-Market Track, with the focus theme being **Manufacturing**
@@ -9,6 +9,6 @@ There are two main challenges: the Independent Developer track and the Emerging 
 
 Our team chose the idea of developing a Device Performance Monitoring application (track 1). We end up winning 1st place with a $5,000 prize from Google.
 
-## Ideas:
+### Ideas:
 
 
