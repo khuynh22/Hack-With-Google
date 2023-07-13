@@ -9,6 +9,7 @@ There are two main challenges: the Independent Developer track and the Emerging 
 
 Our team chose the idea of developing a Device Performance Monitoring application (track 1). We end up winning 1st place with a $5,000 prize from Google.
 
-### Ideas:
 
+### Ideas:
+Our project leverages the power of AppSheet to create a comprehensive device performance monitoring system. It enables companies and electricians to track the status of meters and transformers in the field, allowing them to report artificial outages, non-technical losses, errors, and warnings. By implementing features such as views, dashboards, graphs, and actions, along with integrating Google Maps, OCR, and Automatic Bots, our project aims to streamline operations, optimize the budget, and maximize the performance of utility companies. Additionally, it seeks to contribute to energy conservation efforts by monitoring and reducing energy consumption. This solution has the potential to save 30% of the workload for over a million electricians across the United States.
 
