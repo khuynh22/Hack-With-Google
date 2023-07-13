@@ -28,3 +28,11 @@ This is the mobile view version of the application:
 
 ![Screenshot 2023-07-13 at 18 28 49](https://github.com/khuynh22/Hack-With-Google/assets/57774658/bcceae53-1079-4487-a2da-dac9501f9bff)
 
+#### a) Overview
+- This is the landing page, which shows useful information about their devices (Average Power, Number of Active Meters, Number of Errors/Warnings, Number of Power Outages during the last 24 hours)
+- The user can click on each card to view more information about that
+
+#### b) Map
+![Screenshot 2023-07-13 at 18 42 18](https://github.com/khuynh22/Hack-With-Google/assets/57774658/a5a6d199-0c9e-436b-bb22-b0dbdb8f75ea)
+
+
