@@ -35,4 +35,12 @@ This is the mobile view version of the application:
 #### b) Map
 ![Screenshot 2023-07-13 at 18 42 18](https://github.com/khuynh22/Hack-With-Google/assets/57774658/a5a6d199-0c9e-436b-bb22-b0dbdb8f75ea)
 
+The Map Tabs integrated Google Maps API to display the location and the status of the meters, where the green pin means the meter is working well, the yellow pin means the meter is not in a warning situation that needs to be checked and the red pin means the meter is down or broken. The purpose of this is for both the electricians' end and the company's end to respond to changes in meters' status as fast as possible.
+
+When you click on the pin, you can also edit the information and status, as well as view who last come there to check/fix or any specific notes.
+
+![Screenshot 2023-07-13 at 18 53 56](https://github.com/khuynh22/Hack-With-Google/assets/57774658/49f02609-3f78-4753-9059-83f6b98bc907) ![Screenshot 2023-07-13 at 18 54 30](https://github.com/khuynh22/Hack-With-Google/assets/57774658/b19576ab-7d46-4387-9877-35a4ef6b6d34)
+
+
+
 
