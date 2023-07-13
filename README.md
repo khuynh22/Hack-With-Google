@@ -1,6 +1,6 @@
 # Device Performance Monitoring
 
-### Introduction:
+### 1. Introduction:
 Attending Hack With Google event, sponsored by BeMyApp, Google, and Onix, the hackathon aims to expand people's knowledge about AppSheet and other generative AI features in Google Workspace, AppSheet, and Google Cloud products.
 
 There are two main challenges: the Independent Developer track and the Emerging Mid-Market Track, with the focus theme being **Manufacturing**
@@ -10,7 +10,7 @@ There are two main challenges: the Independent Developer track and the Emerging 
 Our team chose the idea of developing a Device Performance Monitoring application (track 1). We end up winning 1st place with a $5,000 prize from Google.
 
 
-### Ideas:
+### 2. Ideas:
 Our project leverages the power of AppSheet to create a comprehensive device performance monitoring system. It enables companies and electricians to track the status of meters and transformers in the field, allowing them to report artificial outages, non-technical losses, errors, and warnings. By implementing features such as views, dashboards, graphs, and actions, along with integrating Google Maps, OCR, and Automatic Bots, our project aims to streamline operations, optimize the budget, and maximize the performance of utility companies. Additionally, it seeks to contribute to energy conservation efforts by monitoring and reducing energy consumption. This solution has the potential to save 30% of the workload for over a million electricians across the United States.
 
 Our solution will benefit the following stakeholders with significant impacts:
@@ -20,3 +20,11 @@ Our solution will benefit the following stakeholders with significant impacts:
 &nbsp; &nbsp; &nbsp; &nbsp; Utilities Companies / Electricity Provider Companies: Our solution offers utility companies the ability to efficiently monitor the performance of their installed devices, such as meters, transformers, and circuits. This proactive monitoring approach leads to a reduction in downtime and maintenance costs. By utilizing our product, utility companies can decrease outage durations by up to 20%, resulting in improved service reliability for their customers.
 
 &nbsp; &nbsp; &nbsp; &nbsp; Electricians: Electricians will greatly benefit from our product's features. By instantly filling in required information into the audit log using OCR technology, they can save an average of 30 minutes per inspection, allowing them to focus on critical tasks. This time savings translates to increased productivity of electricians by approximately 15%, enabling them to handle more inspections and service requests efficiently.
+
+### 3. Implementations:
+The project focuses on using Google Products (G-Suite, AppSheets, etc.) where the main interface is developed using AppSheet and the data is simulated in Google Sheet.
+
+This is the mobile view version of the application:
+
+![Screenshot 2023-07-13 at 18 28 49](https://github.com/khuynh22/Hack-With-Google/assets/57774658/bcceae53-1079-4487-a2da-dac9501f9bff)
+
