@@ -65,4 +65,25 @@ This helps companies and businesses save a lot of money and energy with a fast r
 ### 4. Next Steps:
 
 We tried to develop the product into a fully functional with full features and pitch the ideas to companies that want this solution. The features we want to implement deeper including:
-- 
+- Outage and Billing reports
+- User interactive maps: a) When you click on implanted devices, it leads you to connected devices and provides metrics related to them. b) Technicians can go to the exact geo-locations to work on the devices.
+- New devices like solar panels to reduce energy consumption.
+- Interconnected dynamic charts
+- Train the OCR so that it can read even more data from the meter. (Right now, it just read in voltage and power)
+
+### 5. Experience App Sources:
+Due to the limitation of AppSheet, it is not possible to share the sources coding and app implementing files here. To experience the usage of the app right now, please follow these steps:
+
+1. Create an AppSheet account.
+2. Access this link: https://www.appsheet.com/start/23ffc642-1353-4874-ac16-c94ab17b59ba.
+3. The related pseudo-simulated data can be found in this GitHub repo.
+
+Want to collaborate to develop more this product, please email me at timhuynhwork@gmail.com
+
+### 6. Acknowledgment:
+I want to give special thanks to Hayden and the Google team, Lucas and the BeMyApp team, and Solange Jacob and the whole Onix team for their special help in mentoring and holding the event. It has been a great opportunity to learn for me.
+
+I want to give special thanks to the Power Ranger team who work really well with me for the completion of the project. 
+
+### 7. Licenses:
+The project is possessed by Khang Nguyen Huynh. Please do not copy or duplicate in any form without permission.
