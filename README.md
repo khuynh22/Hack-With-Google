@@ -41,6 +41,28 @@ When you click on the pin, you can also edit the information and status, as well
 
 ![Screenshot 2023-07-13 at 18 53 56](https://github.com/khuynh22/Hack-With-Google/assets/57774658/49f02609-3f78-4753-9059-83f6b98bc907) ![Screenshot 2023-07-13 at 18 54 30](https://github.com/khuynh22/Hack-With-Google/assets/57774658/b19576ab-7d46-4387-9877-35a4ef6b6d34)
 
+#### c) Audit Log
+![Screenshot 2023-07-13 at 18 55 32](https://github.com/khuynh22/Hack-With-Google/assets/57774658/3a3ec58f-dcbf-4dc7-9e6f-1ab45b86c59e)
 
+The purpose of this is to reduce the physical paperwork for electricians since after checking or changing any information, they can directly modify and submit the form using this application.
 
+Besides that, we integrated autofill, which is very time-efficient, given the fact that the electricians usually have to work with thousands of meters.
 
+We also incorporate the use of OCR, where when the electrician takes a picture, it automatically reads and fills out as much information as it could on the form. In this way, the electrician just has to check, sign, and submit. This will both saves a lot of time and reduces human errors.
+
+#### d) Performance Chart
+![Screenshot 2023-07-13 at 19 25 25](https://github.com/khuynh22/Hack-With-Google/assets/57774658/0362d34b-3dda-4a35-be61-dec0c8195894)
+
+This integrated the data from Google Sheets to build and displays the charts about overall information that is needed for the company. The chart can be filtered in datetime and specific device ID.
+
+#### e) Automated Bots
+![Screenshot 2023-07-13 at 19 28 09](https://github.com/khuynh22/Hack-With-Google/assets/57774658/1ee0c569-a679-41c1-a5a7-dd98c5627821)
+
+In the event of any device change from Green Status to Yellow and Red status, the automatic Bots are trained to send the email with specific contents to the electricians. 
+
+This helps companies and businesses save a lot of money and energy with a fast response system that automatedly done.
+
+### 4. Next Steps:
+
+We tried to develop the product into a fully functional with full features and pitch the ideas to companies that want this solution. The features we want to implement deeper including:
+- 
