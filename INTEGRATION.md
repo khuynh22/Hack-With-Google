@@ -455,7 +455,7 @@ function getAppSheetData(tableName) {
     Action: 'Find',
     Properties: {
       Locale: 'en-US',
-      Selector: 'Filter(TableName, true)'
+      Selector: `Filter(${tableName}, true)`
     }
   };
   
