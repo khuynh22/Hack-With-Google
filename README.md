@@ -8,6 +8,8 @@
 > 🏆 **Winner of Hack With Google 2023** - $5,000 Prize  
 > A comprehensive device performance monitoring system built with AppSheet and Google Workspace
 
+📖 **[View Complete Documentation Index](./DOCS.md)** | ⚙️ **[Setup Guide](./SETUP.md)** | 🔗 **[Integration Guide](./INTEGRATION.md)**
+
 ---
 
 ## 📋 Table of Contents
