@@ -1,0 +1,67 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+.cache/
+tmp/
+temp/
+
+# Node modules (if any JavaScript tooling is added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (if any Python scripts are added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Build Outputs (if any)
+dist/
+build/
+*.egg-info/
+
+# Secrets and Configuration
+.env
+.env.local
+.env.*.local
+secrets.json
+config.local.json
+
+# AppSheet Export Files (optional)
+appsheet-exports/
+*.appsheet
+
+# Personal Notes
+notes.txt
+TODO.md
+scratch/
