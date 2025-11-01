@@ -2,7 +2,7 @@
 
 [![AppSheet](https://img.shields.io/badge/Built%20with-AppSheet-blue?style=flat-square&logo=google)](https://www.appsheet.com/)
 [![Google Workspace](https://img.shields.io/badge/Powered%20by-Google%20Workspace-green?style=flat-square&logo=google)](https://workspace.google.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](#license)
 [![Winner](https://img.shields.io/badge/🏆-1st%20Place%20Winner-gold?style=flat-square)]()
 
 > 🏆 **Winner of Hack With Google 2023** - $5,000 Prize  
@@ -322,7 +322,7 @@ Integrating GitHub with this AppSheet application could enable:
 - 🔄 **Automated Backups** - Backup AppSheet data to GitHub
 - 👥 **Collaboration** - Coordinate development between teams
 
-For detailed setup instructions, see [INTEGRATION.md](./INTEGRATION.md) (coming soon).
+For detailed setup instructions, see [INTEGRATION.md](./INTEGRATION.md).
 
 ---
 
